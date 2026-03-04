@@ -1,0 +1,39 @@
+{
+	"providers": [
+        {
+            "type":"bitmap",
+            "file":"crosshair-ui:ui/pick.png",
+            "height":3,
+            "ascent":-1,
+            "chars":["\uE001"]
+        },
+        {
+            "type":"bitmap",
+            "file":"crosshair-ui:ui/sound.png",
+            "height":8,
+            "ascent":8,
+            "chars":["\uE002"]
+        },
+        {
+            "type":"bitmap",
+            "file":"crosshair-ui:ui/sound_2.png",
+            "height":8,
+            "ascent":8,
+            "chars":["\uE003"]
+        },
+        {
+            "type":"bitmap",
+            "file":"crosshair-ui:ui/door_open.png",
+            "height":3,
+            "ascent":-1,
+            "chars":["\uE004"]
+        },
+        {
+            "type":"bitmap",
+            "file":"crosshair-ui:ui/black.png",
+            "height":16,
+            "ascent":16,
+            "chars":["\uE005"]
+        }
+	]
+}

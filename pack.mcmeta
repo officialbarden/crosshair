@@ -1,0 +1,8 @@
+{
+    "pack":{
+        "pack_format": 81,
+        "min_format": 80,
+        "max_format": 999,
+        "description": "crosshair ui library for mapmaking."
+    }
+}
